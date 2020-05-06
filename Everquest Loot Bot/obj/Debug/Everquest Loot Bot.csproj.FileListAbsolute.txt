@@ -1,0 +1,9 @@
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe.config
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.exe
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\Everquest Loot Bot.pdb
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.csprojResolveAssemblyReference.cache
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.exe
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\obj\Debug\Everquest Loot Bot.pdb
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\x86\v2_AutoHotkey.dll
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.dll
+C:\Users\Paul Brinker\documents\visual studio 2017\Projects\Everquest Loot Bot\Everquest Loot Bot\bin\Debug\AutoHotkey.Interop.pdb
